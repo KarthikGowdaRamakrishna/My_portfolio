@@ -69,7 +69,7 @@ In my role as a <b>Sr Software Engineer/Analyst</b> at Capgemini, I've honed a u
 <b>My Approach</b><br/>
 
 
-At the heart of my approach lies a blend of technical prowess and strategic insight. I don't just analyze data; I weave it into compelling narratives that drive business growth and innovation. My skills in data visualization, engineering, and security are complemented by an unyielding commitment to communication and collaboration. As a data scientist and analyst, I delve deep into the mysteries of finance, unlocking hidden potentials and crafting predictive models that pave the way for informed, intelligent decisions.
+At the heart of my approach lies a blend of technical prowess and strategic insight. I don't just analyze data; I weave it into compelling narratives that drive business growth and innovation. My skills in data visualization, engineering, and security are complemented by an unyielding commitment to communication and collaboration. As a data scientist and analyst, I delve deep into the mysteries of the digital world, unlocking hidden potentials and crafting predictive models that pave the way for informed, intelligent decisions.
 <br/><br/>
 <b>My Vision</b><br/>
 
