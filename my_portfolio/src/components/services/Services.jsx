@@ -25,7 +25,7 @@ const Services = () => {
                         <div className="services__modal-content">
                             <i onClick={() => toggleTab(0)}className="uil uil-times services__modal-close"></i>
                             <h3 className="services__modal-title">Full Stack Development</h3>
-                            <p className="services__modal-description">Service with more than 2 years of experience. Providing quality work to clients and companies</p>
+                            <p className="services__modal-description">Service with more than 3 years of experience. Providing quality work to clients and companies</p>
                             <ul className="services__modal-services grid">
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
@@ -62,16 +62,16 @@ const Services = () => {
                 <div className="services__content">
                     <div>
                         <i className="uil uil-web-grid services__icon"></i>
-                        <h3 className="services__title">Full <br/> Stack <br /> Data Science</h3>
+                        <h3 className="services__title"> Data Science <br/> Stack </h3>
                     </div>
 
                     <span className="services__button" onClick={() => toggleTab(2)}>View More<i className="uil uil-arrow-right services__button-icon"></i></span>
 
                     <div className={toggleState === 2 ? "services__modal active-modal" : "services__modal"}>
                         <div className="services__modal-content">
-                            <i onClick={() => toggleTab(1)}className="uil uil-times services__modal-close"></i>
+                            <i onClick={() => toggleTab(0)}className="uil uil-times services__modal-close"></i>
                             <h3 className="services__modal-title">Full Stack Data Science</h3>
-                            <p className="services__modal-description">Service with more than 2 years of experience. Providing quality work to clients and companies</p>
+                            <p className="services__modal-description">Service with more than 3 years of experience. Providing quality work to clients and companies</p>
                             <ul className="services__modal-services grid">
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
