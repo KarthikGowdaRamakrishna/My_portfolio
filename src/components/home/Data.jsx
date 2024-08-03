@@ -11,10 +11,10 @@ const Data = () => {
             Software Engineer
             </h3>
             <p className="home__description">
-                I'm a full stack web developer based in Boston, and I'm very passionate and dedicated to my work.
+                I'm a full stack web developer based in the United states, and I'm very passionate and dedicated to my work.
             </p>
-            <a href="#contact" className="button button--flex">
-                Say Hello
+            <a href="https://karthikgowdaramakrishna-thechatbotisme--main-1qz70d.streamlit.app/" className="button button--flex" target="_blank">
+                Chat with My Bot.
                 <svg
                   class="button__icon"
                   xmlns="http://www.w3.org/2000/svg"

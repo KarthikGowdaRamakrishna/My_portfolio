@@ -14,7 +14,7 @@ const About = () => {
             
             <div className="about__data">
                 
-                <p className="about__description">Experienced MERN stack and Spring Framework developer with a Master's in Information Systems. Led impactful projects at Perfios Software Solutions, enhancing system efficiency by 20%. Proficient in JavaScript, ReactJS, NodeJS, Java, and Spring. Expertise in cloud technologies, including Docker, Kubernetes, AWS, and Git/GitHub. Dedicated to industry best practices such as Test-Driven Development (TDD). Committed to crafting innovative, scalable solutions and actively contributing to open-source projects. Adept in dynamic, collaborative environments, I bring a strong foundation in full-stack development and a passion for creating robust applications.</p>
+                <p className="about__description">Experienced MERN stack developer, proficient in Python and Java, with a Master's in Information Systems. Successfully led projects at Capgemini, improving system efficiency by 30%. Skilled in JavaScript, ReactJS, NodeJS, Java, and Spring, with expertise in cloud technologies like Docker, Kubernetes, AWS, and Git/GitHub. Dedicated to industry best practices, including Test-Driven Development (TDD), and committed to creating innovative, scalable solutions. Actively contributing to open-source projects and thriving in dynamic, collaborative environments, I bring a solid foundation in full-stack development and a passion for developing robust applications.</p>
 
                 {/* <a download="" href={CV} className="button button--flex">Download CV
                 <svg
